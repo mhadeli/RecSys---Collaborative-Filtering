@@ -5,7 +5,7 @@
 
 Collaborative filtering recommenders make suggestions based on how users rated in the past and not based on the product themselves. It only knows how other customers rated the product. “Similarity” is measured against the similarity of users.
 
-![image.png](attachment:image.png)
+
 
 
 ## About Dataset
