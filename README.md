@@ -28,5 +28,5 @@ Collected by Cai-Nicolas Ziegler in a 4-week crawl (August / September 2004) fro
 ----
 
 # Approaches
-1. ## Matrix Factorization Apporach for Book Recommendation
-2. ## Neural Collaborative Filtering Apporach for Book Recommendation
+### 1. Matrix Factorization Apporach for Book Recommendation
+### 2. Neural Collaborative Filtering Apporach for Book Recommendation
