@@ -1,11 +1,8 @@
-![image](https://github.com/mhadeli/RecSys---Collaborative-Filtering/assets/58530203/a0e821cf-2a6f-4ade-9b91-fa2c8a55f1e9)
-
-
 # Collaborative Filtering
 
 Collaborative filtering recommenders make suggestions based on how users rated in the past and not based on the product themselves. It only knows how other customers rated the product. “Similarity” is measured against the similarity of users.
 
-
+![image](https://github.com/mhadeli/RecSys---Collaborative-Filtering/assets/58530203/a0e821cf-2a6f-4ade-9b91-fa2c8a55f1e9)
 
 
 ## About Dataset
